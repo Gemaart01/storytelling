@@ -2,7 +2,7 @@
 
 # Proyecto Storytelling (template): 
 
-Nombre del Equipo: Grupo 4
+Nombre del Equipo: #Grupo 4#
 
 Proyecto (código): Lolalolita
 
